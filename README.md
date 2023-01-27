@@ -13,7 +13,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Intro component with sign up form](https://p1ng-coming-soon.netlify.app/)
+- Live Site URL: [Intro component with sign up form](https://intro-with-s1gn-up-form.netlify.app/)
 
 ## Built with
 
